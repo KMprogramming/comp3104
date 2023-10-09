@@ -1,10 +1,11 @@
 # COMP3104 – Developer Operations
 
-<h1>Karl Macayan<h1>
+<h2>Karl Macayan<h2>
+<br>
+<h2>HOW TO CONTACT ME<h2>
 
-## How to set up connecting local computer and GitHub
-First, you need to initialize to your folder at local machine
+### School Email
 
 ```bash
-git init
+101368449@georgebrown.ca
 ```
