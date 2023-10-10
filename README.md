@@ -21,3 +21,9 @@ Discord
 ```bash
 kkunn
 ```
+
+### Random Questions
+Which one do you prefer?
+
+- [ ] I prefer dogs 🐶
+- [ ] I prefer cats 🐱
