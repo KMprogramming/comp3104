@@ -25,5 +25,6 @@ kkunn
 ### Random Questions
 Which one do you prefer?
 
-- [ ] I prefer dogs 🐶
-- [ ] I prefer cats 🐱
+- <input type="checkbox" id="dogs" name="preference" value="dogs"> <label for="dogs">I prefer dogs 🐶</label>
+- <input type="checkbox" id="cats" name="preference" value="cats"> <label for="cats">I prefer cats 🐱</label>
+
